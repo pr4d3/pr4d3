@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8271/blob-dab.gif?1643514812" width="25"/>
 
-<!--
-**pr4d3/pr4d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**pr4d3**](), a software engineering student and junior frontend dev in Vietnam. I like exploring technologies, building something from scratch and keeping things simple.
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+- Self-learning to improve core knowledge
+- UI components with subtle motion
+- Small, thoughtful projects with polish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+<!--**Some stuff I built:**
+
+
+---
 -->
+**Fun Facts:**
+
+* I'm a fan of the Manchester United football team
+* I like coffee 
+* **Hobbies:** playing soccer and video games
